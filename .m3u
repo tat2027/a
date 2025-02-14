@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1, Pakistan Tri-Nation Series 2025
+https://awscdn1.tamashaweb.com/out/v1/ce90227a71444af18fddc88750c08f76/index_1.m3u8
+#EXTINF:-1, ICC Champions Trophy 2025
+https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
+#EXTINF:-1, Hum TV HD
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks.m3u8
+#EXTINF:-1, Hum TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8
+#EXTINF:-1, ARY Digital HD
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
+#EXTINF:-1, Green_Entertainment HD
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-131H/chunks.m3u8
+#EXTINF:-1, Green_Entertainment
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-131M/chunks.m3u8
+#EXTINF:-1, EK News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
+#EXTINF:-1, Ten Sports HD
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/live/blackout1/chunks.m3u8
+#EXTINF:-1, ZIM-VS-IRE
+https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/ZIM-VS-IRE-abr/live/ZIM-VS-IRE-abr_480p/chunks.m3u8
+#EXTINF:-1, Set Entertainment HD
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8
+#EXTINF:-1, Colors HD
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8
+#EXTINF:-1, Colors Cineplex HD
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Colors-Cineplex-HD-abr/live/Cineplex-HD_480p/chunks.m3u8
+#EXTINF:-1, Cineplex Superhit
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Colors-Infinity-abr/live/Cineplex-superhit_480p/chunks.m3u8
+#EXTINF:-1, HUM News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/humnews-abr/live/80H/chunks.m3u8
+#EXTINF:-1, ARY Zindagi
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-H/chunks.m3u8
+#EXTINF:-1, Geo News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8
+#EXTINF:-1, Suno News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8
+#EXTINF:-1, Hum Sitaray
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
+#EXTINF:-1, HUM Masala
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118H/chunks.m3u8
+#EXTINF:-1, Sab TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
+#EXTINF:-1, ARY News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8 
