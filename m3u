@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Sports English
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+
+#EXTINF:-1, Sports Hindi
+http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
 #EXTINF:-1, Sports
 https://cdn.crichdplays.ru/embed2.php?id=starsp3
