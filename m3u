@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1, Astro
+https://criccoder.pages.dev/astro.m3u8
+
 #EXTINF:-1, T Sports 1
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 
