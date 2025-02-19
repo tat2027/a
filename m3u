@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, 2
-https://puc2.mylife1.top:8088/live/webcricu19/media_12261.ts?vidictid=201383326494&id=115680&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
-
-#EXTINF:-1, 1
-https://puc2.mylife1.top:8088/live/webcricu19/playlist.m3u8?vidictid=201383326494&id=115680&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
-
 #EXTINF:-1, Sports Hindi
 http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
