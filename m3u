@@ -6,9 +6,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=6469&deviceMac=00:1A:79:B7:2F
 #EXTINF:-1, Sports English
 http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1, PTV Sports
-https://ten.downloaderhd.com/pak/media.stream/pak/media1/chunks.m3u8
-
 #EXTINF:-1, ICC Champions Trophy 2025
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
 
