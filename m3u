@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, PTV Sports
+https://ten.downloaderhd.com/pak/media.stream/pak/media1/chunks.m3u8
+
 #EXTINF:-1, ICC Champions Trophy 2025 HD 1
 https://muc01.mylife1.top:8088/live/webcricn04/playlist.m3u8?vidictid=201383024989&id=114607&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
 
