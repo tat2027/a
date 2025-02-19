@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1, Cricket 1
+http://xtv.ooo:80/live/34763476/34763476/167594.ts
+#EXTINF:-1, Cricket 2
+http://xtv.ooo:80/live/34763476/34763476/219689.ts
+#EXTINF:-1, Cricket 3
+http://xtv.ooo:80/live/34763476/34763476/221417.ts
+#EXTINF:-1, Cricket 4
+http://xtv.ooo:80/live/34763476/34763476/217968.ts
+#EXTINF:-1, Cricket 5
+http://xtv.ooo:80/live/34763476/34763476/382205.ts
+#EXTINF:-1, Cricket 6
+http://xtv.ooo:80/live/34763476/34763476/167575.ts
+#EXTINF:-1, Cricket 7
+http://xtv.ooo:80/live/34763476/34763476/167576.ts
+#EXTINF:-1, Cricket 8
+http://xtv.ooo:80/live/34763476/34763476/167590.ts
+#EXTINF:-1, Cricket 9
+http://xtv.ooo:80/live/34763476/34763476/167569.ts
+#EXTINF:-1, Cricket 10
+http://xtv.ooo:80/live/34763476/34763476/167594.ts
+#EXTINF:-1, Cricket 11
+http://xtv.ooo:80/live/34763476/34763476/167581.ts
+#EXTINF:-1, Cricket 12
+http://xtv.ooo:80/live/34763476/34763476/167592.ts
+#EXTINF:-1, Cricket 13
+http://xtv.ooo:80/live/34763476/34763476/347333.ts
+
 #EXTINF:-1, TenSports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
