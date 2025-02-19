@@ -5,26 +5,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=6469&deviceMac=00:1A:79:B7:2F
 #EXTINF:-1, Sports English
 http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1, Sports
-https://cdn.crichdplays.ru/embed2.php?id=starsp3
-
-#EXTINF:-1, Sports
-https://puc3.mylife1.top:8088/live/webcricn02/playlist.m3u8?vidictid=201386818102&id=115656&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
-
-#EXTINF:-1, Sports Hindi
-https://puc2.mylife1.top:8088/live/webcrichindi/playlist.m3u8?vidictid=201388898730&id=119771&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
-
 #EXTINF:-1, PTV Sports
 https://ten.downloaderhd.com/pak/media.stream/pak/media1/chunks.m3u8
-
-#EXTINF:-1, ICC Champions Trophy 2025 HD 1
-https://muc01.mylife1.top:8088/live/webcricn04/playlist.m3u8?vidictid=201383024989&id=114607&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
-
-#EXTINF:-1, ICC Champions Trophy 2025 HD 1
-https://muc2.mylife1.top:8088/live/webcricn04/playlist.m3u8?vidictid=201381153304&id=114607&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
-
-#EXTINF:-1, Willow Live HD
-https://muc2.mylife1.top:8088/live/webcricn02/playlist.m3u8?vidictid=201383644305&id=115656&pk=fcbd9c385efb04070a0d54122eb1883db8fbad9dbc64389206cd12cb37546862a9371006dbace82a056abfee7728fe9564750f23f26d65b0c9ec4a91949346ed
 
 #EXTINF:-1, ICC Champions Trophy 2025
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
