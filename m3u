@@ -30,7 +30,7 @@ http://xtv.ooo:80/live/34763476/34763476/347333.ts
 #EXTINF:-1, TenSports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1, Astro
+#EXTINF:-1, Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1, T Sports 1
