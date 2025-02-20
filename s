@@ -15,8 +15,6 @@ http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874123.ts
 #EXTINF:-1,TenSports HD
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874111.ts
 
-
-
 #EXTINF:-1, A Sports HD
 http://xtv.ooo:80/live/34763476/34763476/219689.ts
 #EXTINF:-1, A Sports HD
