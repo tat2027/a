@@ -26,22 +26,87 @@ http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
 #EXTINF:-1,City 42
 http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
 
+#EXTINF:-1,Disney Channel
+http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
+#EXTINF:-1,Disney Junior
+http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
+#EXTINF:-1,DTX
+http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
 
+#EXTINF:-1,Dunya News
+http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
+#EXTINF:-1,Dunya News
+http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
 
+#EXTINF:-1,Express Entertainment
+http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
+#EXTINF:-1,Express News
+http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
+
+#EXTINF:-1,Film World
+http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
+
+#EXTINF:-1,GEO Entertainment
+http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
+#EXTINF:-1,GEO Kahani
+http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+#EXTINF:-1,GEO News
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+#EXTINF:-1,GEO Tez
+http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
+
+#EXTINF:-1,GNN News
+http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
 #EXTINF:-1,GreenTv
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
+
+#EXTINF:-1,HBO HD
+http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
+#EXTINF:-1,HBO 2 HD
+http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
+
+#EXTINF:-1,HUM Masala
+http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
+#EXTINF:-1,HUM News
+http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
+#EXTINF:-1,HUM TV
+http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
+
+#EXTINF:-1,Kids Zone HD
+http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
+
+#EXTINF:-1,Lahore News
+http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,TRT World
 http://125.209.88.166:45793/BRN/TRTWorld.stream/playlist.m3u8
+
+
+
 #EXTINF:-1,Saudi Sunnah
 http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
 #EXTINF:-1,Saudi Quran
 http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
+
+
+
 #EXTINF:-1,PTV Home
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+
+
+
 #EXTINF:-1,Peace TV
 http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-#EXTINF:-1,OSN Action
-http://125.209.88.166:45793/BRN/OsnActionHD.stream/playlist.m3u8
+
+
+
+
 #EXTINF:-1,OX Cartoon
 http://125.209.88.166:45793/BRN/OXCartoonHD.stream/playlist.m3u8
 #EXTINF:-1,Nick Junior
@@ -56,61 +121,51 @@ http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
 #EXTINF:-1,Motor Vision
 http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
-#EXTINF:-1,Kids Zone HD
-http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
-#EXTINF:-1,HBO 2 HD
-http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
-#EXTINF:-1,GEO Tez
-http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
-#EXTINF:-1,Film World
-http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
-#EXTINF:-1,Express Entertainment
-http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
-#EXTINF:-1,Disney Junior
-http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
-#EXTINF:-1,DTX
-http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
 
 
-#EXTINF:-1,Disney Channel
-http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
 
-#EXTINF:-1,Lahore News
-http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,News One
 http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
-#EXTINF:-1,Express News
-http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1,PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
-#EXTINF:-1,HUM News
-http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
-#EXTINF:-1,GNN News
-http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,Public News
 http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8
 #EXTINF:-1,URDU 1
 http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8
 #EXTINF:-1,SAMA News
 http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
-#EXTINF:-1,HUM Masala
-http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
-#EXTINF:-1,GEO News
-http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
-#EXTINF:-1,GEO Kahani
-http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
-#EXTINF:-1,GEO Entertainment
-http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
-#EXTINF:-1,Dunya News
-http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
-#EXTINF:-1,Dawn News
-http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
 
 
-#EXTINF:-1,HUM TV
-http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
+
+
+
+
+
+
 
 
 
