@@ -1,5 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1,8XM
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+
+#EXTINF:-1,92 News
+http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
+
+#EXTINF:-1,Ahlebait
+http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
+
+#EXTINF:-1,ARY Digital
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+#EXTINF:-1,ARY News
+http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+#EXTINF:-1,ARY Zindagi
+http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
+
+#EXTINF:-1,BOL Entertainment
+http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
+#EXTINF:-1,BOL News
+http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
+#EXTINF:-1,City 42
+http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
+
+
+
 #EXTINF:-1,GreenTv
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 #EXTINF:-1,TRT World
@@ -44,14 +72,11 @@ http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
 #EXTINF:-1,DTX
 http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
-#EXTINF:-1,ARY Zindagi
-http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
-#EXTINF:-1,Ahlebait
-http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
+
+
 #EXTINF:-1,Disney Channel
 http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
-#EXTINF:-1,City 42
-http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
+
 #EXTINF:-1,Lahore News
 http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
 #EXTINF:-1,News One
@@ -82,19 +107,10 @@ http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
 #EXTINF:-1,Dawn News
 http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
-#EXTINF:-1,BOL News
-http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
-#EXTINF:-1,BOL Entertainment
-http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
+
+
 #EXTINF:-1,HUM TV
 http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
-#EXTINF:-1,ARY News
-http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
-#EXTINF:-1,ARY Digital
-http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
-#EXTINF:-1,92 News
-http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
-#EXTINF:-1,8XM
-http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+
+
+
