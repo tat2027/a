@@ -10,13 +10,13 @@ http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/586772.ts
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/877478.ts
 #EXTINF:-1,Willow 2 by Cricbuzz
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874120.ts
-#EXTINF:-1,Star Sports Main Event Live
+#EXTINF:-1,Sky Sports Main Event Live
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/877482.ts
 #EXTINF:-1,SuperSports Cricket
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874123.ts
-#EXTINF:-1,TenSports HD B1
+#EXTINF:-1,Ten Sports HD B1
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874111.ts
-#EXTINF:-1,TenSports HD B2
+#EXTINF:-1,Ten Sports HD B2
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874803.ts
 #EXTINF:-1,PTV Sports HD B1
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874114.ts
@@ -44,7 +44,7 @@ https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr
 #EXTINF:-1,Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1,TSports 1
+#EXTINF:-1,T Sports 1
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1,Willow 2 by Cricbuzz
