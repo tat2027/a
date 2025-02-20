@@ -2,168 +2,122 @@
 
 #EXTINF:-1,GreenTv
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
+#EXTINF:-1,TRT World
+http://125.209.88.166:45793/BRN/TRTWorld.stream/playlist.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
+#EXTINF:-1,Saudi Quran
+http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
+#EXTINF:-1,PTV Home
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+#EXTINF:-1,Peace TV
+http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
+#EXTINF:-1,OSN Action
+http://125.209.88.166:45793/BRN/OsnActionHD.stream/playlist.m3u8
+#EXTINF:-1,OX Cartoon
+http://125.209.88.166:45793/BRN/OXCartoonHD.stream/playlist.m3u8
+#EXTINF:-1,Nick Junior
+http://125.209.88.166:45793/BRN/NickJr.stream/playlist.m3u8
+#EXTINF:-1,NEO News
+http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
+#EXTINF:-1,National Geographic Wild
+http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
+#EXTINF:-1,National Geographic HD
+http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
+#EXTINF:-1,MTV Music
+http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
+#EXTINF:-1,Motor Vision
+http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
+#EXTINF:-1,Kids Zone HD
+http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
+#EXTINF:-1,HBO 2 HD
+http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
+#EXTINF:-1,GEO Tez
+http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
+#EXTINF:-1,Film World
+http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
+#EXTINF:-1,Express Entertainment
+http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
+#EXTINF:-1,Disney Junior
+http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
+#EXTINF:-1,DTX
+http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1,ARY SPORTS
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-
 #EXTINF:-1,TV One
 http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
-
-#EXTINF:-1,TRT World
-http://125.209.88.166:45793/BRN/TRTWorld.stream/playlist.m3u8
-
 #EXTINF:-1,TNT
 http://125.209.88.166:45793/BRN/TNT.stream/playlist.m3u8
-
 #EXTINF:-1,TLC
 http://125.209.88.166:45793/BRN/TLC.stream/playlist.m3u8
-
 #EXTINF:-1,Sony Turbo
 http://125.209.88.166:45793/BRN/SonyTurbo.stream/playlist.m3u8
-
 #EXTINF:-1,Sony SciFi
 http://125.209.88.166:45793/BRN/SonySciFi.stream/playlist.m3u8
-
 #EXTINF:-1,Sony HD
 http://125.209.88.166:45793/BRN/SonyHD.stream/playlist.m3u8
-
-#EXTINF:-1,Saudi Sunnah
-http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
-
-#EXTINF:-1,Saudi Quran
-http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
-
-#EXTINF:-1,PTV Home
-http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
-
-#EXTINF:-1,Peace TV
-http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-
 #EXTINF:-1,Paramount Comedy
 http://125.209.88.166:45793/BRN/ParamountComedy.stream/playlist.m3u8
-
 #EXTINF:-1,Paramount
 http://125.209.88.166:45793/BRN/Paramount.stream/playlist.m3u8
-
 #EXTINF:-1,PTV TeleSchool
 http://125.209.88.166:45793/BRN/PTVTeleSchool.stream/playlist.m3u8
-
 #EXTINF:-1,PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-
 #EXTINF:-1,OSN Series
 http://125.209.88.166:45793/BRN/OsnSeriesHD.stream/playlist.m3u8
-
 #EXTINF:-1,OSN Movies
 http://125.209.88.166:45793/BRN/OsnMoviesHD.stream/playlist.m3u8
-
 #EXTINF:-1,OSN Enigma
 http://125.209.88.166:45793/BRN/OsnEnigmaHD.stream/playlist.m3u8
-
 #EXTINF:-1,OSN Comedy
 http://125.209.88.166:45793/BRN/OsnComedyHD.stream/playlist.m3u8
-
-#EXTINF:-1,OSN Action
-http://125.209.88.166:45793/BRN/OsnActionHD.stream/playlist.m3u8
-
-#EXTINF:-1,OX Cartoon
-http://125.209.88.166:45793/BRN/OXCartoonHD.stream/playlist.m3u8
-
 #EXTINF:-1,Nickelodeon
 http://125.209.88.166:45793/BRN/Nickelodeon.stream/playlist.m3u8
-
-#EXTINF:-1,Nick Junior
-http://125.209.88.166:45793/BRN/NickJr.stream/playlist.m3u8
-
-#EXTINF:-1,NEO News
-http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
-
-#EXTINF:-1,National Geographic Wild
-http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
-
-#EXTINF:-1,National Geographic HD
-http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
-
-#EXTINF:-1,MTV Music
-http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
-
-#EXTINF:-1,Motor Vision
-http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
-
 #EXTINF:-1,MTV Hits
 http://125.209.88.166:45793/BRN/MTVHits.stream/playlist.m3u8
-
 #EXTINF:-1,MIFA Music
 http://125.209.88.166:45793/BRN/MIFAHD.stream/playlist.m3u8
-
 #EXTINF:-1,MBC Max
 http://125.209.88.166:45793/BRN/MBCMax.stream/playlist.m3u8
-
 #EXTINF:-1,MBC Action
 http://125.209.88.166:45793/BRN/MBCAction.stream/playlist.m3u8
-
 #EXTINF:-1,MBC2
 http://125.209.88.166:45793/BRN/MBC2.stream/playlist.m3u8
-
 #EXTINF:-1,LOTUS
 http://125.209.88.166:45793/BRN/Lotus.stream/playlist.m3u8
-
 #EXTINF:-1,LTN Family
 http://125.209.88.166:45793/BRN/LTNFamilyHD/playlist.m3u8
-
-#EXTINF:-1,Kids Zone HD
-http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
-
 #EXTINF:-1,History
 http://125.209.88.166:45793/BRN/History.stream/playlist.m3u8
-
 #EXTINF:-1,Hadi TV
 http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
-
-#EXTINF:-1,HBO HD
-http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
-
-#EXTINF:-1,HBO 2 HD
-http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
-
-#EXTINF:-1,GEO Tez
-http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
-
 #EXTINF:-1,France 24
 http://125.209.88.166:45793/BRN/France24.stream/playlist.m3u8
-
 #EXTINF:-1,FOX HD
 http://125.209.88.166:45793/BRN/FoxHD.stream/playlist.m3u8
-
 #EXTINF:-1,Fox Comedy
 http://125.209.88.166:45793/BRN/FoxComedyHD.stream/playlist.m3u8
-
 #EXTINF:-1,Food Network
 http://125.209.88.166:45793/BRN/FoodNetwork.stream/playlist.m3u8
-
-#EXTINF:-1,Film World
-http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
-
 #EXTINF:-1,Fashion TV
 http://125.209.88.166:45793/BRN/Fashion8HD.stream/playlist.m3u8
-
 #EXTINF:-1,Fashion One
 http://125.209.88.166:45793/BRN/Fashion1HD.stream/playlist.m3u8
-
-#EXTINF:-1,Express Entertainment
-http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
-
-#EXTINF:-1,Disney Junior
-http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
-
 #EXTINF:-1,Discovery Channel
 http://125.209.88.166:45793/BRN/DiscovChannel.stream/playlist.m3u8
-
 #EXTINF:-1,DW
 http://125.209.88.166:45793/BRN/DW.stream/playlist.m3u8
 
-#EXTINF:-1,DTX
-http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
+
 
 #EXTINF:-1,CineMax
 http://125.209.88.166:45793/BRN/Cinemax1.stream/playlist.m3u8
