@@ -14,6 +14,8 @@ http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874120.ts
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/877482.ts
 #EXTINF:-1,SuperSports Cricket
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874123.ts
+#EXTINF:-1,SuperSports Cricket
+http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/460095.ts
 #EXTINF:-1,Ten Sports HD B1
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/874111.ts
 #EXTINF:-1,Ten Sports HD B2
