@@ -47,6 +47,3 @@ http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=6469&deviceMac=00:1A:79:B7:2F
 
 #EXTINF:-1,Willow by Cricbuzz
 http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-
-#EXTINF:-1,Willow by Cricbuzz
-http://xtv.ooo:80/live/34763476/34763476/347333.ts
