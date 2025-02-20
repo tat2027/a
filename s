@@ -29,7 +29,7 @@ http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/775234.ts
 #EXTINF:-1,Sky Sports Main Event Live FHD
 http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/756723.ts
 #EXTINF:-1,Sky Sports Main Event Live HD
-http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/756723.ts
+http://dc.web-hostiger.com:8880/live/207061568895/TVSTARIPTV/10132.ts
 
 
 #EXTINF:-1,A Sports HD
