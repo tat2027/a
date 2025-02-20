@@ -16,55 +16,45 @@ http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874123.ts
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874111.ts
 #EXTINF:-1,TenSports HD B2
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874803.ts
-
 #EXTINF:-1,PTV Sports HD B1
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874114.ts
+#EXTINF:-1,PTV Sports HD B2
+http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874800.ts
 
 
-
-
-
-
-#EXTINF:-1, A Sports HD
+#EXTINF:-1,A Sports HD
 http://xtv.ooo:80/live/34763476/34763476/219689.ts
-#EXTINF:-1, A Sports HD
+#EXTINF:-1,A Sports HD
 http://xtv.ooo:80/live/34763476/34763476/221417.ts
-#EXTINF:-1, A Sports HD
+#EXTINF:-1,A Sports HD
 http://tv.cloudcdn.me:80/live.ts?channelId=132249&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-
-#EXTINF:-1, Astro Cricket
+#EXTINF:-1,Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1, Astro Cricket
+#EXTINF:-1,Astro Cricket
 http://xtv.ooo:80/live/34763476/34763476/167581.ts
-
-#EXTINF:-1, ICC Champions Trophy 2025
+#EXTINF:-1,ICC Champions Trophy 2025
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
-
-#EXTINF:-1, PTV Sports
+#EXTINF:-1,PTV Sports
 http://xtv.ooo:80/live/34763476/34763476/217968.ts
-
-#EXTINF:-1, Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket
 http://xtv.ooo:80/live/34763476/34763476/167594.ts
-#EXTINF:-1, Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket
 http://xtv.ooo:80/live/34763476/34763476/167594.ts
-#EXTINF:-1, Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket
 http://xtv.ooo:80/live/34763476/34763476/167592.ts
-
-#EXTINF:-1, Star Sports 1 HD
+#EXTINF:-1,Star Sports 1 HD
 http://xtv.ooo:80/live/34763476/34763476/167575.ts
-#EXTINF:-1, Star Sports 2 HD
+#EXTINF:-1,Star Sports 2 HD
 http://xtv.ooo:80/live/34763476/34763476/167576.ts
-
-#EXTINF:-1, Ten Sports
+#EXTINF:-1,Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1, TSports HD
+#EXTINF:-1,TSports HD
 http://xtv.ooo:80/live/34763476/34763476/167590.ts
-#EXTINF:-1, TSports 1
+#EXTINF:-1,TSports 1
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:0A:3B:2B
-
-#EXTINF:-1, Willow 2 by Cricbuzz
+#EXTINF:-1,Willow 2 by Cricbuzz
 http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:-1, Willow by Cricbuzz
+#EXTINF:-1,Willow by Cricbuzz
 http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:-1, Willow by Cricbuzz
+#EXTINF:-1,Willow by Cricbuzz
 http://xtv.ooo:80/live/34763476/34763476/347333.ts
