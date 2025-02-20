@@ -1,15 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1,Star Sports 1 Hindi HD
+#EXTINF:-1,Star Sports 1 Hindi HD B1
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/877475.ts
+#EXTINF:-1,Star Sports 1 Hindi HD TATA PLAY B2
+http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/877472.ts
+
+
 #EXTINF:-1,Star 4K
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/877478.ts
 #EXTINF:-1,Willow 2 by Cricbuzz
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874120.ts
 #EXTINF:-1,Star Sports Main Event Live
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/877482.ts
-#EXTINF:-1,Star Sports 1 Hindi HD TATA PLAY
-http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/877472.ts
+
 #EXTINF:-1,SuperSports Cricket
 http://dc.web-hostiger.com:8880/live/133144997888/TVSTARIPTV/874123.ts
 #EXTINF:-1,TenSports HD
