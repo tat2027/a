@@ -24,6 +24,8 @@ http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/460095.ts
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/874111.ts
 #EXTINF:-1,Ten Sports HD B2
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/874803.ts
+#EXTINF:-1,PTV Sports FHD
+http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/639414.ts
 #EXTINF:-1,PTV Sports HD B1
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/874114.ts
 #EXTINF:-1,PTV Sports HD B2
