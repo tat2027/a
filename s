@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,ICC Champions Trophy 2025
+https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
+
 #EXTINF:-1,Star Sports 1 Hindi HD TATA PLAY B2
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
 #EXTINF:-1,Star Sports 1 Hindi HD (IN)
