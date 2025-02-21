@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,Star Sports 1 Hindi HD
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
 #EXTINF:-1,Star 4K
