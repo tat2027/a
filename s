@@ -2,6 +2,10 @@
 
 
 #EXTINF:-1,Star Sports 1 Hindi HD
+https://criccoder.pages.dev/ssh.m3u8
+#EXTINF:-1,Star 4K
+https://criccoder.pages.dev/Star4k.m3u8
+#EXTINF:-1,Astro
 https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi HD B1
