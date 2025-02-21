@@ -2,6 +2,10 @@
 
 #EXTINF:-1,ICC Champions Trophy 2025
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
+
+#EXTINF:-1,GEO Super Live
+http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/179012.ts
+
 #EXTINF:-1,A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1,TenSports
@@ -9,7 +13,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 
-#EXTINF:-1,Star Sports 1 Hindi HD TATA PLAY B2
+#EXTINF:-1,Star Sports 1 Hindi HD
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
 #EXTINF:-1,Star Sports 1 Hindi HD (IN)
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/586772.ts
