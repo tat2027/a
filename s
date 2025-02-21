@@ -14,6 +14,10 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1,A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+#EXTINF:-1,PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1,TenSports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi HD B1
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
