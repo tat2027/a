@@ -7,6 +7,10 @@ https://criccoder.pages.dev/ssh.m3u8
 https://criccoder.pages.dev/Star4k.m3u8
 #EXTINF:-1,Astro
 https://criccoder.pages.dev/astro.m3u8
+#EXTINF:-1,Star Sports 1
+https://criccoder.pages.dev/ss1.m3u8
+#EXTINF:-1,Star Sports 2
+https://criccoder.pages.dev/ss2.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi HD B1
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
