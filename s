@@ -4,6 +4,7 @@
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877475.ts
 #EXTINF:-1,Star Sports 1 Hindi HD TATA PLAY B2
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
+http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
 #EXTINF:-1,Star Sports 1 Hindi HD (IN)
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/586772.ts
 #EXTINF:-1,Star 4K
