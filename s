@@ -10,6 +10,8 @@ http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877472.ts
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/586772.ts
 #EXTINF:-1,Star 4K
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/877478.ts
+#EXTINF:-1,Willow by Cricbuzz
+http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/322113.ts
 #EXTINF:-1,Willow 2 by Cricbuzz
 http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/874120.ts
 #EXTINF:-1,Sky Sports Main Event Live
