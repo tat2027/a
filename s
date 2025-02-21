@@ -9,6 +9,8 @@ https://criccoder.pages.dev/Star4k.m3u8
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1,Star Sports 1
 https://criccoder.pages.dev/ss1.m3u8
+#EXTINF:-1,Star Sports HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1,A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
