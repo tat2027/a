@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,IPTV by JD
-https://go.screenpal.com/watch/cTn3iknhLRk
+
 
 
 #EXTINF:-1,ICC Champions Trophy 2025
