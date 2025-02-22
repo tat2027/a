@@ -18,6 +18,8 @@ https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi 4k
 https://criccoder.pages.dev/ssh.m3u8
+#EXTINF:-1,Star Sports 1 Hindi 2k
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1,Star Sports 1 Hindi HD
 http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/877472.ts
 #EXTINF:-1,Star Sports 1 Hindi HD (IN)
