@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,IPTV by JD
+https://go.screenpal.com/watch/cTn3iknhLRk
+
+
 #EXTINF:-1,ICC Champions Trophy 2025
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
 
