@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Join Now
+#EXTINF:-1,IPTV by JD
 https://www.canva.com/design/DAGfzij9Jks/Iw5XHjxS5lL0fOHmjLJ0Kg/watch
 
 #EXTINF:-1,ICC Champions Trophy 2025
