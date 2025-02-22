@@ -4,7 +4,7 @@
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
 
 #EXTINF:-1,GEO Super Live
-http://dc.web-hostiger.com:8880/live/478984287629/TVSTARIPTV/179012.ts
+http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/179012.ts
 
 #EXTINF:-1,A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
