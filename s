@@ -16,6 +16,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 
+#EXTINF:-1,Star Sports 1 Hindi 4k
+https://criccoder.pages.dev/ssh.m3u8
 #EXTINF:-1,Star Sports 1 Hindi HD
 http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/877472.ts
 #EXTINF:-1,Star Sports 1 Hindi HD (IN)
