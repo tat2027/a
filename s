@@ -54,6 +54,8 @@ http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/639414.ts
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/874114.ts
 #EXTINF:-1,PTV Sports HD B2
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/874800.ts
+#EXTINF:-1,PTV Sports HD
+http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/48601.ts
 
 #EXTINF:-1,Starz Play CricLife 2
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/858262.ts
