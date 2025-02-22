@@ -26,6 +26,8 @@ http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/586772.ts
 #EXTINF:-1,Star 4K
 http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/877478.ts
 
+#EXTINF:-1,Willow 2 by Cricbuzz HD
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1,Willow Sports HD
 http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/117034.ts
 #EXTINF:-1,Willow by Cricbuzz
