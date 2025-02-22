@@ -35,6 +35,8 @@ http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/10132.ts
 
 #EXTINF:-1,Sky Sports Cricket Live
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/10129.ts
+#EXTINF:-1,Sky Sports Cricket Live
+http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/136254.ts
 
 #EXTINF:-1,Super Sports Cricket
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/874123.ts
