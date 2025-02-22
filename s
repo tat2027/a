@@ -57,3 +57,6 @@ http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/874800.ts
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/858262.ts
 #EXTINF:-1,Starz Play CricLife
 http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/775234.ts
+
+#EXTINF:-1,Fox Sports 501
+http://dc.web-hostiger.com:8880/live/381340205669/TVSTARIPTV/107903.ts
