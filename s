@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Join Now
+https://www.canva.com/design/DAGfzij9Jks/XWwkAJEtPUjidfUdWY-WoA/watch?utm_content=DAGfzij9Jks&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc95a8e5e6a
+
 #EXTINF:-1,ICC Champions Trophy 2025
 https://cdn10khi.tamashaweb.com:8087/YlUHeDQb7a/champions-abr/live/champions-abr_720p/chunks.m3u8
 
