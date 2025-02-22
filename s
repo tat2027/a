@@ -24,6 +24,8 @@ http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/586772.ts
 #EXTINF:-1,Star 4K
 http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/877478.ts
 
+#EXTINF:-1,Willow Sports HD
+http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/117034.ts
 #EXTINF:-1,Willow by Cricbuzz
 http://dc.web-hostiger.com:8880/live/446394050286/TVSTARIPTV/322113.ts
 #EXTINF:-1,Willow 2 by Cricbuzz
