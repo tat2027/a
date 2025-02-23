@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1,Star Sports 1 Hindi Airtel
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.ts
+
 http://dc.web-hostiger.com:8880/live/143294788483/TVSTARIPTV/179012.ts
 
 
