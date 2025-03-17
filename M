@@ -1,4 +1,3 @@
-
-
-The Diplomat (2025) HQ PRE-HD
+#EXTM3U
+#EXTINF:-1,The Diplomat (2025) HQ PRE-HD
 https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Diplomat.2025.HQ.1080p.Hindi.PRE.HD.DD2.0.HC.ESub.x264.HDHub4u.Ms.mkv
