@@ -4,3 +4,6 @@
 https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Badnaam.2025.HQ.1080p.Punjabi.WEB.DL.DD5.1.x264.HDHub4u.Ms.mkv
 #EXTINF:-1,The Diplomat (2025) HQ PRE-HD
 https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Diplomat.2025.HQ.1080p.Hindi.PRE.HD.DD2.0.HC.ESub.x264.HDHub4u.Ms.mkv
+
+#EXTINF:-Sikandar.2025.HQ.1080p.PRE.HD.Hindi 
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Sikandar.2025.HQ.1080p.PRE.HD.Hindi.DD2.0.HC.ESub.x264.HDHub4u.Ms.mkv
