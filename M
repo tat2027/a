@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Jaat HD
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Jaat.2025.HQ.1080p.Hindi.HDTC.DD2.0.HC.ESub.x264.HDHub4u.Ms.mkv
 
 #EXTINF:-1,Kesari.Chapter.2.2025.HQ.1080p.HDTC.Hindi
 https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Kesari.Chapter.2.2025.HQ.1080p.HDTC.Hindi.Line.HC.ESub.x264.HDHub4u.Ms.mkv
