@@ -1,0 +1,28 @@
+#EXTINF:-1, SONY BBC EARTH SD Hindi
+http://14.192.144.13:8000/play/a06w
+
+
+
+#EXTINF:-1, SONY HD 195.181.169.162
+http://195.181.169.162:80/SONY_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SAB HD 195.181.169.162
+http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY MAX HD 195.181.169.162
+http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 3 HD 195.181.169.162
+http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 1 HD 195.181.169.162
+http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 2 HD 195.181.169.162
+http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY PIX HD ENGLISH 195.181.169.162
+http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
+http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
